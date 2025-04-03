@@ -10,7 +10,7 @@ requests>=2.31.0
 scapy>=2.5.0
 
 # Network & Security
-nmap>=0.7.1
+python-nmap>=0.7.1
 python-whois>=0.9.0
 dnspython>=2.4.0
 cryptography>=41.0.0
@@ -34,7 +34,7 @@ stem>=1.8.0
 socksipy-branch>=1.1
 
 # Payment Integration
-razorpay>=2.8.0
+razorpay>=1.4.2
 
 # Utility
 python-dateutil>=2.8.0
