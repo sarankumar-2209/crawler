@@ -1,6 +1,6 @@
 import os
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'odin_backend.settings')  # Change 'odin_backend' to your actual project name
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'odin_backend.settings')
 
 application = get_wsgi_application()
